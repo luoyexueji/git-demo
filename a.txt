@@ -1,5 +1,14 @@
 asdasd 222222
+<<<<<<< HEAD
 3333uasd3
 asdasds
 asd
 asdsad
+=======
+33333
+asdasd
+asdas ss
+
+asdas
+ssd
+>>>>>>> hot-fix
